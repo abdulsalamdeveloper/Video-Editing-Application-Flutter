@@ -1,6 +1,6 @@
 # video_editing_app
 
-A new Flutter project.
+This is video editing app. Not a video editing software. Just an app for people to send the raw footage and wait for editing basically. I want editors to have their own profile Basically creating a simlar app like fiverr
 
 ## Getting Started
 
